@@ -1,0 +1,12 @@
+{
+  "name": "ironman-readme-animation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.62.1",
+    "three": "^0.180.0"
+  }
+}
