@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="./assets/quiet-purpose.gif"
+    src="./assets/meaning.gif"
     width="800"
-    alt="A small black dot circles a ring above the words: I shouldn't be alive, unless it was for a reason"
+    alt="Four circles fill one by one, then empty in reverse, above the words: I can do this all day"
   />
 </div>
