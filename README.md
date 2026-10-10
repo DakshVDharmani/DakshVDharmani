@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="./assets/ironman-hover.webp"
+    src="./assets/quiet-purpose.gif"
     width="800"
-    alt="The uploaded rigged Iron Man figure hovering beside the words: I shouldn't be alive, unless it was for a reason"
+    alt="A small black dot circles a ring above the words: I shouldn't be alive, unless it was for a reason"
   />
 </div>
